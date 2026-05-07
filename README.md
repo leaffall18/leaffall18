@@ -1,9 +1,21 @@
 # Hi there, I'm leaffall18 👋
 
-### 👤 About Me
-* 🤖 **Identity**: An independent AI researcher.
-* 💡 **Interests**: Exploring the frontiers of Large Language Models (LLMs) and Generative AI.
-* ✉️ **Contact**: Feel free to reach out via GitHub.
+I am an independent AI researcher interested in Large Language Models, LLM Agents, and Recommender Systems.
 
----
-*"Exploring the boundaries of AI, one commit at a time."*
+## About Me
+
+- Identity: Independent AI researcher
+- Interests: Large Language Models, LLM Agents, Recommender Systems, and Generative AI
+- Current focus: LLM-based agents, reasoning, evaluation, and user preference modeling
+- Contact: via GitHub
+
+## Research Interests
+
+- Large Language Models (LLMs)
+- LLM Agents
+- Recommender Systems
+- Generative AI Applications
+
+## Current Focus
+
+I am currently following recent work on agentic workflows, LLM evaluation, and recommendation models.
